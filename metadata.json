@@ -1,0 +1,7 @@
+{
+  "name": "Saga Forge AI",
+  "description": "A real-time creative partner for Tabletop Role-Playing Game (TTRPG) Dungeon Masters. Leverage Google Gemini to generate text descriptions and visual assets (characters, scenes, monsters, items) on the fly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
